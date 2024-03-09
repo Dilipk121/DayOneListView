@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DayOneListView</string>
+    <string name="tasks_to_be_done">Tasks To Be Done ...</string>
+</resources>
